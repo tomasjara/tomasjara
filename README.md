@@ -39,7 +39,7 @@
 - **Tecnologías:** React Native, Expo, Docker, Kubernetes, Express.js, NestJS, Git. 
 
 ### 3. **Plataforma Modular para Negocios**  
-Trabajé en el desarrollo de una plataforma diseñada para agrupar diferentes negocios, cada uno con funcionalidades específicas. La solución se enfocaba en construir un ecosistema flexible y escalable que abordara las necesidades particulares de cada negocio desde una perspectiva general.  
+Trabajé en el desarrollo de una plataforma diseñada para agrupar diferentes negocios, cada uno con funcionalidades específicas. La solución se enfocaba en construir un ecosistema flexible y escalable que abordara las necesidades particulares de cada negocio manteniendo el principio de composición y Prop Drilling Control.  
 
 - **Rol:** Desarrollo Frontend.  
 - **Tecnologías utilizadas:** React, JavaScript, CSS.  
