@@ -32,7 +32,7 @@
 ### 1. **Aplicación para el registro de Gastos Personales**  
 - Proyecto personal alojado en GitHub que permite registrar gastos personales y analizar el flujo financiero.  
 - **Tecnologías:** React Native.  
-- [Repositorio en GitHub](https://github.com/tomasjara)
+- [Repositorio en GitHub](https://github.com/tomasjara/expenses-app)
 
 ### 2. **Solución para Comunidades**  
 - Trabajo en equipo para desarrollar un producto que aborda las necesidades de comunidades como condominios y edificios.  
